@@ -1,0 +1,7 @@
+#states
+WILD = 2
+DEVEL = 3
+BURNT = 0
+BURNING = 1
+NUM_STATES = 4
+
